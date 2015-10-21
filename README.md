@@ -1,14 +1,4 @@
-# Sample Test for new Code-Check
-
-Code-Check is a web service which we are going to develop in 2015.
-It provides users the system to make various coding tests and the interface to solve tests.
-This is a prototype for it.
-
-## Purpose
-
-- Measuring developing skills of candidates.
-- Helping candidates to understand how to develop in Givery.(Using [api-first-spec](https://github.com/shunjikonishi/api-first-spec))
-- Considering what the new code-check test should be.
+# Event Application
 
 ## Test
 
@@ -104,16 +94,4 @@ This app is simple event reserve system.
 
 ### Q5. Refactoring
 If you are a manager of this project and you can change the specification of this app, what would you do?
-
-Write your opinion to answer.md
-
-## How to submit your answer
-- Please let us know about your answer by writing on [issue](https://github.com/code-check/sample-test/issues).
-  - Enter "implemented" into the title.
-  - Write your repository URL on the comment.
-
-## Support
-If you have any questions, please write it to this repository's [issue](https://github.com/code-check/sample-test/issues).
-
-This is experimental case of our new service.  
-So, any feedback is welcome!
+Write your opinion to [answer.md](answer.md)

@@ -1,15 +1,4 @@
-# Sample Test for new Code-Check
-
-code-checkとは[Givery](https://github.com/givery-technology)が開発中のWebアプリケーションです。このサービスでは、ユーザーは様々な種類のコーディングテストを作成したり、回答をすることが出来ます。
-このテストは、そのサービスに向けてのプロトタイプのテストです。
-
-## 目的
-
-- Giveryの求職者の開発スキルを測定する
-- Giveryがどのような開発体制で開発をしているのかの理解を促す([api-first-spec](https://github.com/shunjikonishi/api-first-spec)など)
-- code-checkのサービス開発・機能改善の参考にする
-
-## 問題
+# イベントアプリ
 
 - Webアプリケーションフレームワーク等を活用してREST APIを作成してください。
 - APIのスペックは[spec](spec)からご覧いただけます.
@@ -102,13 +91,3 @@ mocha spec/users_login.js
 ### Q5. リファクタリングをしてください
 もし、あなたがこのアプリケーションのプロジェクトマネージャーだとして、このアプリケーションを改善するとしたら、何をしますか？
 あなたの意見を answer.md に記載してください。
-
-## 提出方法
-- [issue](https://github.com/code-check/sample-test/issues)に以下の方法で提出してください。
-  - "implemented"というタイトルを付けてください。
-  - コメント欄にあなたの回答リポジトリのURLを記載してください。
-
-## サポート
-もし質問がある場合はこのリポジトリの [issue](https://github.com/code-check/sample-test/issues)までお問い合わせください。
-
-このテストは新しいWebサービスのための実験的なテストでもありますので、もしフィードバックがあれば、是非アドバイス等いただければ幸いです。

@@ -8,5 +8,11 @@
     "app/*"
   ],
   "test": "mocha spec/*",
-  "allowNewFile": true
+  "allowNewFile": true,
+  "tags": [
+    "AnyLanguage",
+    "WebAPI",
+    "WebService",
+    "Refactoring"
+  ]
 }

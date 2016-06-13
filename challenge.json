@@ -9,14 +9,14 @@
   ],
   "test": "mocha spec/*",
   "allowNewFile": true,
-  "readme": {
-    "en": "README.md",
-    "ja": "README_ja.md"
-  }
   "tags": [
     "AnyLanguage",
     "WebAPI",
     "WebService",
     "Refactoring"
-  ]
+  ],
+    "readme": {
+    "en": "README.md",
+    "ja": "README_ja.md"
+  }
 }
